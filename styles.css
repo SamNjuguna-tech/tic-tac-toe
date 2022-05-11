@@ -116,6 +116,7 @@ body{
 .winning-message{
     display: none;
     position: fixed;
+    flex-direction: column;
     top: 0;
     bottom: 0;
     right: 0;
